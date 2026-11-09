@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# temp agent-generated extraction files
+pit_stop_1_data.txt
+pit_stop_2_data.txt
